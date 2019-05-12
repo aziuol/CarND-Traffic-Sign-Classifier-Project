@@ -30,8 +30,8 @@ The goals / steps of this project are the following:
 
 [image9]: ./examples/labels_histogram.png "Training Data - Classifier Label Histogram"
 [image10]: ./examples/BoxPlot_TrainingData.png "Training Data - Box Plot"
-[image11]:
-[blue_text](http://benchmark.ini.rub.de/?section=gtsrb&subsection=about)
+[image11]: ./examples/signs_labelspng.png
+
 [image12]: ./examples/preprocessing_random_30_classes.png "Pre-processing Random Class visualisation"
 [image13]: ./examples/LeNet_GTSRB.png "LeNet GTSRB Covnet"
 [image14]: ./examples/accuracy_loss.png "Accuracy and loss of implemented Covnet architecture"
